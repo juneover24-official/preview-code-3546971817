@@ -1,0 +1,373 @@
+{
+  "qq_number": "3546971817",
+  "group_number": "705179975",
+  "updated_at": "2026-04-23T15:52:38.427138",
+  "skins": [
+    {
+      "name": "yyの冬季恋爱日记",
+      "file": "yyの冬季恋爱日记.bdi",
+      "thumb": "yyの冬季恋爱日记.bdi_py_26_light_thumb.png",
+      "full": "yyの冬季恋爱日记.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の圈圈饼",
+      "file": "椰の圈圈饼.bdi",
+      "thumb": "椰の圈圈饼.bdi_py_26_default_thumb.png",
+      "full": "椰の圈圈饼.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の莓糕兔糯",
+      "file": "椰の莓糕兔糯.bdi",
+      "thumb": "椰の莓糕兔糯.bdi_py_26_light_thumb.png",
+      "full": "椰の莓糕兔糯.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の困困熊",
+      "file": "椰の困困熊.bdi",
+      "thumb": "椰の困困熊.bdi_py_26_default_thumb.png",
+      "full": "椰の困困熊.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の蝴蝶结便签",
+      "file": "椰の蝴蝶结便签.bdi",
+      "thumb": "椰の蝴蝶结便签.bdi_py_26_default_thumb.png",
+      "full": "椰の蝴蝶结便签.bdi_py_26_default.png"
+    },
+    {
+      "name": "yyの小熊粗来噜",
+      "file": "yyの小熊粗来喽.bdi",
+      "thumb": "yyの小熊粗来喽.bdi_py_26_light_thumb.png",
+      "full": "yyの小熊粗来喽.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の人形小喵",
+      "file": "椰の人形小喵.bdi",
+      "thumb": "椰の人形小喵.bdi_py_26_light_thumb.png",
+      "full": "椰の人形小喵.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの宅家小猫咪",
+      "file": "yyの宅家小猫咪.bdi",
+      "thumb": "yyの宅家小猫咪.bdi_py_26_light_thumb.png",
+      "full": "yyの宅家小猫咪.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の养一只米菲兔",
+      "file": "椰の养一只米菲兔.bdi",
+      "thumb": "椰の养一只米菲兔.bdi_py_26_default_thumb.png",
+      "full": "椰の养一只米菲兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の萌兔奶盒",
+      "file": "椰の萌兔奶盒.bdi",
+      "thumb": "椰の萌兔奶盒.bdi_py_26_light_thumb.png",
+      "full": "椰の萌兔奶盒.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の甜心午后",
+      "file": "椰の甜心午后.bdi",
+      "thumb": "椰の甜心午后.bdi_py_26_light_thumb.png",
+      "full": "椰の甜心午后.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の夹一个发卡",
+      "file": "椰の夹一个发卡.bdi",
+      "thumb": "椰の夹一个发卡.bdi_py_26_default_thumb.png",
+      "full": "椰の夹一个发卡.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の歪头小猫",
+      "file": "椰の歪头小猫.bdi",
+      "thumb": "椰の歪头小猫.bdi_py_26_default_thumb.png",
+      "full": "椰の歪头小猫.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の一口香草蛋糕糕",
+      "file": "椰の一口香草蛋糕糕.bdi",
+      "thumb": "椰の一口香草蛋糕糕.bdi_py_26_default_thumb.png",
+      "full": "椰の一口香草蛋糕糕.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の糖果色小熊",
+      "file": "椰の糖果色小熊.bdi",
+      "thumb": "椰の糖果色小熊.bdi_py_26_default_thumb.png",
+      "full": "椰の糖果色小熊.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の棉花糖小兔",
+      "file": "椰の棉花糖小兔.bdi",
+      "thumb": "椰の棉花糖小兔.bdi_py_26_default_thumb.png",
+      "full": "椰の棉花糖小兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の乖乖嘟",
+      "file": "椰の乖乖嘟.bdi",
+      "thumb": "椰の乖乖嘟.bdi_py_26_light_thumb.png",
+      "full": "椰の乖乖嘟.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の甜品mikko",
+      "file": "椰の甜品mikko.bdi",
+      "thumb": "椰の甜品mikko.bdi_py_26_light_thumb.png",
+      "full": "椰の甜品mikko.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの冬日一口奶油",
+      "file": "yyの冬日一口奶油.bdi",
+      "thumb": "yyの冬日一口奶油.bdi_py_26_default_thumb.png",
+      "full": "yyの冬日一口奶油.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の睡衣派对",
+      "file": "椰の睡衣派对.bdi",
+      "thumb": "椰の睡衣派对.bdi_py_26_light_thumb.png",
+      "full": "椰の睡衣派对.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の摘星星嘟兔",
+      "file": "椰の摘星星嘟兔.bdi",
+      "thumb": "椰の摘星星嘟兔.bdi_py_26_default_thumb.png",
+      "full": "椰の摘星星嘟兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の爪爪圆饼",
+      "file": "椰の爪爪圆饼.bdi",
+      "thumb": "椰の爪爪圆饼.bdi_py_26_light_thumb.png",
+      "full": "椰の爪爪圆饼.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の一杯热美式",
+      "file": "椰の一杯热美式.bdi",
+      "thumb": "椰の一杯热美式.bdi_py_26_default_thumb.png",
+      "full": "椰の一杯热美式.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰のhappy狗女孩",
+      "file": "椰のhappy狗女孩.bdi",
+      "thumb": "椰のhappy狗女孩.bdi_py_26_light_thumb.png",
+      "full": "椰のhappy狗女孩.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の抱猫咪兔兔",
+      "file": "椰の抱猫咪兔兔.bdi",
+      "thumb": "椰の抱猫咪兔兔.bdi_py_26_default_thumb.png",
+      "full": "椰の抱猫咪兔兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の熊猫",
+      "file": "椰の熊猫1.bdi",
+      "thumb": "椰の熊猫1.bdi_py_26_default_thumb.png",
+      "full": "椰の熊猫1.bdi_py_26_default.png"
+    },
+    {
+      "name": "yyの喵爪甜酪",
+      "file": "yyの喵爪甜酪.bdi",
+      "thumb": "yyの喵爪甜酪.bdi_py_26_default_thumb.png",
+      "full": "yyの喵爪甜酪.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の厨娘小猫",
+      "file": "椰の厨娘小猫.bdi",
+      "thumb": "椰の厨娘小猫.bdi_py_26_default_thumb.png",
+      "full": "椰の厨娘小猫.bdi_py_26_default.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "椰の软萌星糖宅女.bdi",
+      "thumb": "椰の软萌星糖宅女.bdi_py_26_light_thumb.png",
+      "full": "椰の软萌星糖宅女.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の兔兔太kio",
+      "file": "椰の兔兔太kio.bdi",
+      "thumb": "椰の兔兔太kio.bdi_py_26_light_thumb.png",
+      "full": "椰の兔兔太kio.bdi_py_26_light.png"
+    },
+    {
+      "name": "椰の眨眼爪爪猫",
+      "file": "椰の眨眼爪爪猫.bdi",
+      "thumb": "椰の眨眼爪爪猫.bdi_py_26_default_thumb.png",
+      "full": "椰の眨眼爪爪猫.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰の抱猫咪兔兔",
+      "file": "椰の抱猫咪兔兔.bds",
+      "thumb": "椰の抱猫咪兔兔.bds_py_26_default_thumb.png",
+      "full": "椰の抱猫咪兔兔.bds_py_26_default.png"
+    },
+    {
+      "name": "yyの小熊粗来噜",
+      "file": "yyの小熊粗来喽.bds",
+      "thumb": "yyの小熊粗来喽.bds_py_26_light_thumb.png",
+      "full": "yyの小熊粗来喽.bds_py_26_light.png"
+    },
+    {
+      "name": "椰の养一只米菲兔",
+      "file": "椰の养一只米菲兔.bds",
+      "thumb": "椰の养一只米菲兔.bds_py_26_default_thumb.png",
+      "full": "椰の养一只米菲兔.bds_py_26_default.png"
+    },
+    {
+      "name": "椰の眨眼爪爪猫",
+      "file": "椰の眨眼爪爪猫.bds",
+      "thumb": "椰の眨眼爪爪猫.bds_py_26_default_thumb.png",
+      "full": "椰の眨眼爪爪猫.bds_py_26_default.png"
+    },
+    {
+      "name": "yyの冬日一口奶油",
+      "file": "yyの冬日一口奶油.bds",
+      "thumb": "yyの冬日一口奶油.bds_py_26_default_thumb.png",
+      "full": "yyの冬日一口奶油.bds_py_26_default.png"
+    },
+    {
+      "name": "椰の爪爪圆饼",
+      "file": "椰の爪爪圆饼.bds",
+      "thumb": "椰の爪爪圆饼.bds_py_26_light_thumb.png",
+      "full": "椰の爪爪圆饼.bds_py_26_light.png"
+    },
+    {
+      "name": "椰の圈圈饼",
+      "file": "椰の圈圈饼.bds",
+      "thumb": "椰の圈圈饼.bds_py_26_default_thumb.png",
+      "full": "椰の圈圈饼.bds_py_26_default.png"
+    },
+    {
+      "name": "椰の莓糕兔糯",
+      "file": "椰の莓糕兔糯.bds",
+      "thumb": "椰の莓糕兔糯.bds_py_26_light_thumb.png",
+      "full": "椰の莓糕兔糯.bds_py_26_light.png"
+    },
+    {
+      "name": "椰の蝴蝶结便签",
+      "file": "椰の蝴蝶结便签.bds",
+      "thumb": "椰の蝴蝶结便签.bds_py_26_default_thumb.png",
+      "full": "椰の蝴蝶结便签.bds_py_26_default.png"
+    },
+    {
+      "name": "椰の夹一个发卡",
+      "file": "椰の夹一个发卡.bds",
+      "thumb": "椰の夹一个发卡.bds_py_26_default_thumb.png",
+      "full": "椰の夹一个发卡.bds_py_26_default.png"
+    },
+    {
+      "name": "椰の睡衣派对",
+      "file": "椰の睡衣派对.bds",
+      "thumb": "椰の睡衣派对.bds_py_26_light_thumb.png",
+      "full": "椰の睡衣派对.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの宅家小猫咪",
+      "file": "yyの宅家小猫咪.bds",
+      "thumb": "yyの宅家小猫咪.bds_py_26_light_thumb.png",
+      "full": "yyの宅家小猫咪.bds_py_26_light.png"
+    },
+    {
+      "name": "椰の甜心午后",
+      "file": "椰の甜心午后.bds",
+      "thumb": "椰の甜心午后.bds_py_26_light_thumb.png",
+      "full": "椰の甜心午后.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの喵爪甜酪",
+      "file": "yyの喵爪甜酪.bds",
+      "thumb": "yyの喵爪甜酪.bds_py_26_default_thumb.png",
+      "full": "yyの喵爪甜酪.bds_py_26_default.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "椰の萌兔奶盒.bds",
+      "thumb": "椰の萌兔奶盒.bds_py_26_light_thumb.png",
+      "full": "椰の萌兔奶盒.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの冬季恋爱日记",
+      "file": "yyの冬季恋爱日记.bds",
+      "thumb": "yyの冬季恋爱日记.bds_py_26_light_thumb.png",
+      "full": "yyの冬季恋爱日记.bds_py_26_light.png"
+    },
+    {
+      "name": "椰の困困熊",
+      "file": "椰の困困熊.bds",
+      "thumb": "椰の困困熊.bds_py_26_default_thumb.png",
+      "full": "椰の困困熊.bds_py_26_default.png"
+    },
+    {
+      "name": "椰の甜品mikko",
+      "file": "椰の甜品mikko.bds",
+      "thumb": "椰の甜品mikko.bds_py_26_light_thumb.png",
+      "full": "椰の甜品mikko.bds_py_26_light.png"
+    },
+    {
+      "name": "椰のhappy狗女孩",
+      "file": "椰のhappy狗女孩.bds",
+      "thumb": "椰のhappy狗女孩.bds_py_26_light_thumb.png",
+      "full": "椰のhappy狗女孩.bds_py_26_light.png"
+    },
+    {
+      "name": "椰の歪头小猫",
+      "file": "椰の歪头小猫.bds",
+      "thumb": "椰の歪头小猫.bds_py_26_default_thumb.png",
+      "full": "椰の歪头小猫.bds_py_26_default.png"
+    },
+    {
+      "name": "椰の一口香草蛋糕糕",
+      "file": "椰の香草蛋糕糕.bds",
+      "thumb": "椰の香草蛋糕糕.bds_py_26_default_thumb.png",
+      "full": "椰の香草蛋糕糕.bds_py_26_default.png"
+    },
+    {
+      "name": "椰の一杯热美式",
+      "file": "椰の一杯热美式.bds",
+      "thumb": "椰の一杯热美式.bds_py_26_default_thumb.png",
+      "full": "椰の一杯热美式.bds_py_26_default.png"
+    },
+    {
+      "name": "椰の厨娘小猫",
+      "file": "椰の厨娘小猫.bds",
+      "thumb": "椰の厨娘小猫.bds_py_26_default_thumb.png",
+      "full": "椰の厨娘小猫.bds_py_26_default.png"
+    },
+    {
+      "name": "椰の乖乖嘟",
+      "file": "椰の乖乖嘟.bds",
+      "thumb": "椰の乖乖嘟.bds_py_26_light_thumb.png",
+      "full": "椰の乖乖嘟.bds_py_26_light.png"
+    },
+    {
+      "name": "椰の兔兔太kio",
+      "file": "椰の兔兔太kio.bds",
+      "thumb": "椰の兔兔太kio.bds_py_26_light_thumb.png",
+      "full": "椰の兔兔太kio.bds_py_26_light.png"
+    },
+    {
+      "name": "椰の软萌星糖宅女",
+      "file": "椰の软萌星糖宅女.bds",
+      "thumb": "椰の软萌星糖宅女.bds_py_26_light_thumb.png",
+      "full": "椰の软萌星糖宅女.bds_py_26_light.png"
+    },
+    {
+      "name": "椰の糖果色小熊",
+      "file": "椰の糖果色小熊.bds",
+      "thumb": "椰の糖果色小熊.bds_py_26_default_thumb.png",
+      "full": "椰の糖果色小熊.bds_py_26_default.png"
+    },
+    {
+      "name": "椰の人形小喵",
+      "file": "椰の人形小喵.bds",
+      "thumb": "椰の人形小喵.bds_py_26_light_thumb.png",
+      "full": "椰の人形小喵.bds_py_26_light.png"
+    },
+    {
+      "name": "椰の熊猫",
+      "file": "椰の熊猫.bds",
+      "thumb": "椰の熊猫.bds_py_26_default_thumb.png",
+      "full": "椰の熊猫.bds_py_26_default.png"
+    },
+    {
+      "name": "椰の棉花糖小兔",
+      "file": "椰の棉花糖小兔.bds",
+      "thumb": "椰の棉花糖小兔.bds_py_26_default_thumb.png",
+      "full": "椰の棉花糖小兔.bds_py_26_default.png"
+    }
+  ]
+}

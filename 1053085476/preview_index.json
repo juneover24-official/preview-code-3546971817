@@ -1,0 +1,715 @@
+{
+  "qq_number": "3546971817",
+  "group_number": "1053085476",
+  "updated_at": "2026-04-23T15:52:36.108829",
+  "skins": [
+    {
+      "name": "椰汁の全彩021",
+      "file": "椰汁の全彩021.bdi",
+      "thumb": "椰汁の全彩021.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩021.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩036",
+      "file": "椰汁の全彩036.bdi",
+      "thumb": "椰汁の全彩036.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩036.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩013",
+      "file": "椰汁の全彩013.bdi",
+      "thumb": "椰汁の全彩013.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩013.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩024",
+      "file": "椰汁の全彩024.bdi",
+      "thumb": "椰汁の全彩024.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩024.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩10",
+      "file": "椰汁の全彩10.bdi",
+      "thumb": "椰汁の全彩10.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩10.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩031",
+      "file": "椰汁の全彩031.bdi",
+      "thumb": "椰汁の全彩031.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩031.bdi_py_26_default.png"
+    },
+    {
+      "name": "两椰汁の全彩050",
+      "file": "椰汁の全彩050.bdi",
+      "thumb": "椰汁の全彩050.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩050.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩58",
+      "file": "椰汁の全彩58.bdi",
+      "thumb": "椰汁の全彩58.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩58.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩051",
+      "file": "椰汁の全彩051.bdi",
+      "thumb": "椰汁の全彩051.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩051.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩053",
+      "file": "椰汁の全彩053.bdi",
+      "thumb": "椰汁の全彩053.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩053.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩季015",
+      "file": "椰汁の全彩季015.bdi",
+      "thumb": "椰汁の全彩季015.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩季015.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩8",
+      "file": "椰汁の全彩8.bdi",
+      "thumb": "椰汁の全彩8.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩8.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩018",
+      "file": "椰汁の全彩018.bdi",
+      "thumb": "椰汁の全彩018.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩018.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩049",
+      "file": "椰汁の全彩049.bdi",
+      "thumb": "椰汁の全彩049.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩049.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩1",
+      "file": "椰汁の全彩1.bdi",
+      "thumb": "椰汁の全彩1.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩1.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩012",
+      "file": "椰汁の全彩012.bdi",
+      "thumb": "椰汁の全彩012.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩012.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩4",
+      "file": "椰汁の全彩4.bdi",
+      "thumb": "椰汁の全彩4.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩4.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩019",
+      "file": "椰汁の全彩019.bdi",
+      "thumb": "椰汁の全彩019.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩019.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩046",
+      "file": "椰汁の全彩046.bdi",
+      "thumb": "椰汁の全彩046.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩046.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩033",
+      "file": "椰汁の全彩033.bdi",
+      "thumb": "椰汁の全彩033.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩033.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩047",
+      "file": "椰汁の全彩047.bdi",
+      "thumb": "椰汁の全彩047.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩047.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩054",
+      "file": "椰汁の全彩054.bdi",
+      "thumb": "椰汁の全彩054.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩054.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩056",
+      "file": "椰汁の全彩056.bdi",
+      "thumb": "椰汁の全彩056.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩056.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩042",
+      "file": "椰汁の全彩042.bdi",
+      "thumb": "椰汁の全彩042.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩042.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩038",
+      "file": "椰汁の全彩038.bdi",
+      "thumb": "椰汁の全彩038.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩038.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩044",
+      "file": "椰汁の全彩044.bdi",
+      "thumb": "椰汁の全彩044.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩044.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩037",
+      "file": "椰汁の全彩037.bdi",
+      "thumb": "椰汁の全彩037.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩037.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩9",
+      "file": "椰汁の全彩9.bdi",
+      "thumb": "椰汁の全彩9.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩9.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩7",
+      "file": "椰汁の全彩7.bdi",
+      "thumb": "椰汁の全彩7.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩7.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩043",
+      "file": "椰汁の全彩043.bdi",
+      "thumb": "椰汁の全彩043.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩043.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩2",
+      "file": "椰汁の全彩2.bdi",
+      "thumb": "椰汁の全彩2.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩2.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩048",
+      "file": "椰汁の全彩048.bdi",
+      "thumb": "椰汁の全彩048.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩048.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩017",
+      "file": "椰汁の全彩017.bdi",
+      "thumb": "椰汁の全彩017.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩017.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩052",
+      "file": "椰汁の全彩052.bdi",
+      "thumb": "椰汁の全彩052.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩052.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩041",
+      "file": "椰汁の全彩041.bdi",
+      "thumb": "椰汁の全彩041.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩041.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩040",
+      "file": "椰汁の全彩040.bdi",
+      "thumb": "椰汁の全彩040.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩040.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩013",
+      "file": "椰汁の全彩014.bdi",
+      "thumb": "椰汁の全彩014.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩014.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩020",
+      "file": "椰汁の全彩020.bdi",
+      "thumb": "椰汁の全彩020.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩020.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩057",
+      "file": "椰汁の全彩057.bdi",
+      "thumb": "椰汁の全彩057.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩057.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩023",
+      "file": "椰汁の全彩023.bdi",
+      "thumb": "椰汁の全彩023.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩023.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩028",
+      "file": "椰汁の全彩028.bdi",
+      "thumb": "椰汁の全彩028.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩028.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩045",
+      "file": "椰汁の全彩045.bdi",
+      "thumb": "椰汁の全彩045.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩045.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩011",
+      "file": "椰汁の全彩011.bdi",
+      "thumb": "椰汁の全彩011.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩011.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩3",
+      "file": "椰汁の全彩3.bdi",
+      "thumb": "椰汁の全彩3.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩3.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩030",
+      "file": "椰汁の全彩030.bdi",
+      "thumb": "椰汁の全彩030.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩030.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩016",
+      "file": "椰汁の全彩016.bdi",
+      "thumb": "椰汁の全彩016.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩016.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩6",
+      "file": "椰汁の全彩6.bdi",
+      "thumb": "椰汁の全彩6.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩6.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩022",
+      "file": "椰汁の全彩022.bdi",
+      "thumb": "椰汁の全彩022.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩022.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩季035",
+      "file": "椰汁の全彩季035.bdi",
+      "thumb": "椰汁の全彩季035.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩季035.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の补偿01",
+      "file": "椰汁の补偿01.bdi",
+      "thumb": "椰汁の补偿01.bdi_py_26_default_thumb.png",
+      "full": "椰汁の补偿01.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩055",
+      "file": "椰汁の全彩055.bdi",
+      "thumb": "椰汁の全彩055.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩055.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩033",
+      "file": "椰汁の全彩032.bdi",
+      "thumb": "椰汁の全彩032.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩032.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩027",
+      "file": "椰汁の全彩027.bdi",
+      "thumb": "椰汁の全彩027.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩027.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩029",
+      "file": "椰汁の全彩029.bdi",
+      "thumb": "椰汁の全彩029.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩029.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩025",
+      "file": "椰汁の全彩025.bdi",
+      "thumb": "椰汁の全彩025.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩025.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩034",
+      "file": "椰汁の全彩034.bdi",
+      "thumb": "椰汁の全彩034.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩034.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩5",
+      "file": "椰汁の全彩5.bdi",
+      "thumb": "椰汁の全彩5.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩5.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩026",
+      "file": "椰汁の全彩026.bdi",
+      "thumb": "椰汁の全彩026.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩026.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩039",
+      "file": "椰汁の全彩039.bdi",
+      "thumb": "椰汁の全彩039.bdi_py_26_default_thumb.png",
+      "full": "椰汁の全彩039.bdi_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩025",
+      "file": "椰汁の全彩025.bds",
+      "thumb": "椰汁の全彩025.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩025.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩4",
+      "file": "椰汁の全彩4.bds",
+      "thumb": "椰汁の全彩4.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩4.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩041",
+      "file": "椰汁の全彩041.bds",
+      "thumb": "椰汁の全彩041.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩041.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩017",
+      "file": "椰汁の全彩017.bds",
+      "thumb": "椰汁の全彩017.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩017.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩038",
+      "file": "椰汁の全彩038.bds",
+      "thumb": "椰汁の全彩038.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩038.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩044",
+      "file": "椰汁の全彩044.bds",
+      "thumb": "椰汁の全彩044.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩044.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩056",
+      "file": "椰汁の全彩056.bds",
+      "thumb": "椰汁の全彩056.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩056.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩7",
+      "file": "椰汁の全彩7.bds",
+      "thumb": "椰汁の全彩7.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩7.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩036",
+      "file": "椰汁の全彩036.bds",
+      "thumb": "椰汁の全彩036.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩036.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩024",
+      "file": "椰汁の全彩024.bds",
+      "thumb": "椰汁の全彩024.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩024.bds_py_26_default.png"
+    },
+    {
+      "name": "布局美美兔",
+      "file": "椰汁の全彩季018.bds",
+      "thumb": "椰汁の全彩季018.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩季018.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩048",
+      "file": "椰汁の全彩048.bds",
+      "thumb": "椰汁の全彩048.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩048.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩042",
+      "file": "椰汁の全彩042.bds",
+      "thumb": "椰汁の全彩042.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩042.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩019",
+      "file": "椰汁の全彩019.bds",
+      "thumb": "椰汁の全彩019.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩019.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩033",
+      "file": "椰汁の全彩033.bds",
+      "thumb": "椰汁の全彩033.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩033.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩043",
+      "file": "椰汁の全彩043.bds",
+      "thumb": "椰汁の全彩043.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩043.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩2",
+      "file": "椰汁の全彩2.bds",
+      "thumb": "椰汁の全彩2.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩2.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩011",
+      "file": "椰汁の全彩011.bds",
+      "thumb": "椰汁の全彩011.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩011.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩055",
+      "file": "椰汁の全彩055.bds",
+      "thumb": "椰汁の全彩055.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩055.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩029",
+      "file": "椰汁の全彩029.bds",
+      "thumb": "椰汁の全彩029.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩029.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩028",
+      "file": "椰汁の全彩028.bds",
+      "thumb": "椰汁の全彩028.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩028.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩020",
+      "file": "椰汁の全彩020.bds",
+      "thumb": "椰汁の全彩020.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩020.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩031",
+      "file": "椰汁の全彩031.bds",
+      "thumb": "椰汁の全彩031.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩031.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩012",
+      "file": "椰汁の全彩012.bds",
+      "thumb": "椰汁の全彩012.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩012.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩3",
+      "file": "椰汁の全彩3.bds",
+      "thumb": "椰汁の全彩3.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩3.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩季035",
+      "file": "椰汁の全彩季035.bds",
+      "thumb": "椰汁の全彩季035.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩季035.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩58",
+      "file": "椰汁の全彩58.bds",
+      "thumb": "椰汁の全彩58.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩58.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩052",
+      "file": "椰汁の全彩052.bds",
+      "thumb": "椰汁の全彩052.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩052.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩049",
+      "file": "椰汁の全彩049.bds",
+      "thumb": "椰汁の全彩049.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩049.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩053",
+      "file": "椰汁の全彩053.bds",
+      "thumb": "椰汁の全彩053.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩053.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩047",
+      "file": "椰汁の全彩047.bds",
+      "thumb": "椰汁の全彩047.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩047.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩057",
+      "file": "椰汁の全彩057.bds",
+      "thumb": "椰汁の全彩057.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩057.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩027",
+      "file": "椰汁の全彩027.bds",
+      "thumb": "椰汁の全彩027.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩027.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩040",
+      "file": "椰汁の全彩040.bds",
+      "thumb": "椰汁の全彩040.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩040.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩8",
+      "file": "椰汁の全彩8.bds",
+      "thumb": "椰汁の全彩8.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩8.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩季013",
+      "file": "椰汁の全彩季013.bds",
+      "thumb": "椰汁の全彩季013.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩季013.bds_py_26_default.png"
+    },
+    {
+      "name": "布局小兔奶油芙",
+      "file": "椰汁の全彩014.bds",
+      "thumb": "椰汁の全彩014.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩014.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩6",
+      "file": "椰汁の全彩6.bds",
+      "thumb": "椰汁の全彩6.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩6.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩054",
+      "file": "椰汁の全彩054.bds",
+      "thumb": "椰汁の全彩054.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩054.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩039",
+      "file": "椰汁の全彩039.bds",
+      "thumb": "椰汁の全彩039.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩039.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩季015",
+      "file": "椰汁の全彩季015.bds",
+      "thumb": "椰汁の全彩季015.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩季015.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩034",
+      "file": "椰汁の全彩034.bds",
+      "thumb": "椰汁の全彩034.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩034.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩030",
+      "file": "椰汁の全彩030.bds",
+      "thumb": "椰汁の全彩030.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩030.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩016",
+      "file": "椰汁の全彩016.bds",
+      "thumb": "椰汁の全彩016.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩016.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩045",
+      "file": "椰汁の全彩045.bds",
+      "thumb": "椰汁の全彩045.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩045.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩023",
+      "file": "椰汁の全彩023.bds",
+      "thumb": "椰汁の全彩023.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩023.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩051",
+      "file": "椰汁の全彩051.bds",
+      "thumb": "椰汁の全彩051.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩051.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩046",
+      "file": "椰汁の全彩046.bds",
+      "thumb": "椰汁の全彩046.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩046.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩9",
+      "file": "椰汁の全彩9.bds",
+      "thumb": "椰汁の全彩9.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩9.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の补偿01",
+      "file": "椰汁の补偿01.bds",
+      "thumb": "椰汁の补偿01.bds_py_26_default_thumb.png",
+      "full": "椰汁の补偿01.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩026",
+      "file": "椰汁の全彩026.bds",
+      "thumb": "椰汁の全彩026.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩026.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩10",
+      "file": "椰汁の全彩10.bds",
+      "thumb": "椰汁の全彩10.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩10.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩037",
+      "file": "椰汁の全彩037.bds",
+      "thumb": "椰汁の全彩037.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩037.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩5",
+      "file": "椰汁の全彩5.bds",
+      "thumb": "椰汁の全彩5.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩5.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩033",
+      "file": "椰汁の全彩032.bds",
+      "thumb": "椰汁の全彩032.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩032.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩1",
+      "file": "椰汁の全彩1.bds",
+      "thumb": "椰汁の全彩1.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩1.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩021",
+      "file": "椰汁の全彩021.bds",
+      "thumb": "椰汁の全彩021.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩021.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩022",
+      "file": "椰汁の全彩022.bds",
+      "thumb": "椰汁の全彩022.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩022.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩050",
+      "file": "椰汁の全彩050.bds",
+      "thumb": "椰汁の全彩050.bds_py_26_default_thumb.png",
+      "full": "椰汁の全彩050.bds_py_26_default.png"
+    }
+  ]
+}
