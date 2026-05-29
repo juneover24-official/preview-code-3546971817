@@ -1,7 +1,7 @@
 {
   "qq_number": "3546971817",
   "group_number": "1053085476",
-  "updated_at": "2026-04-23T15:52:36.108829",
+  "updated_at": "2026-05-29T03:03:37+00:00",
   "skins": [
     {
       "name": "椰汁の全彩021",
@@ -710,6 +710,12 @@
       "file": "椰汁の全彩050.bds",
       "thumb": "椰汁の全彩050.bds_py_26_default_thumb.png",
       "full": "椰汁の全彩050.bds_py_26_default.png"
+    },
+    {
+      "name": "椰汁の全彩061",
+      "file": "椰汁の全彩061.bdi",
+      "thumb": "椰汁の全彩061.bdi_py_26_light_thumb.png",
+      "full": "椰汁の全彩061.bdi_py_26_light_thumb.png"
     }
   ]
 }
