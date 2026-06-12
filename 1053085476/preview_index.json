@@ -1,7 +1,7 @@
 {
   "qq_number": "3546971817",
   "group_number": "1053085476",
-  "updated_at": "2026-06-07T06:21:48+00:00",
+  "updated_at": "2026-06-12T11:49:02+00:00",
   "skins": [
     {
       "name": "椰汁の全彩021",
@@ -818,6 +818,12 @@
       "file": "椰汁の全彩070.bds",
       "thumb": "椰汁の全彩070.bds_py_26_light_thumb.png",
       "full": "椰汁の全彩070.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "补偿02椰汁の捣蛋鬼小咪1",
+      "file": "补偿02椰汁の捣蛋鬼小咪1.bdi",
+      "thumb": "补偿02椰汁の捣蛋鬼小咪1.bdi_py_26_light_thumb.png",
+      "full": "补偿02椰汁の捣蛋鬼小咪1.bdi_py_26_light_thumb.png"
     }
   ]
 }
