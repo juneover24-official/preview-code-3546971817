@@ -1,7 +1,7 @@
 {
   "qq_number": "3546971817",
   "group_number": "155434370",
-  "updated_at": "2026-06-12T18:35:12+00:00",
+  "updated_at": "2026-06-14T07:29:24+00:00",
   "skins": [
     {
       "name": "yyの待领养小猫",
@@ -1184,6 +1184,12 @@
       "file": "yyの莓莓熊耶.bds",
       "thumb": "yyの莓莓熊耶.bds_py_26_light_thumb.png",
       "full": "yyの莓莓熊耶.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "yyの一口冰布丁",
+      "file": "yyの一口冰布丁.bds",
+      "thumb": "yyの一口冰布丁.bds_py_26_light_thumb.png",
+      "full": "yyの一口冰布丁.bds_py_26_light_thumb.png"
     }
   ]
 }
